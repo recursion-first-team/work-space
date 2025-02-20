@@ -1,7 +1,8 @@
+<!- PR にReviewers・Assignees・Developmentの紐付けを行ってください。 ->
+
 # PR 概要
 
 <!- PR の概要を一言で記述する。 ->
-<!- issueとの紐付けを行う。ex) #${issue_number}, #12 ->
 
 # レビュワー
 
